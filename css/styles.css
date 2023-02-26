@@ -771,9 +771,6 @@ letter-spacing: 0.02em;
 color: var(--secondary-text-color); 
 }
 
-
-
-
 .rectangle-10{
 position: absolute;
 width: 73px;
@@ -791,7 +788,7 @@ text-align: center;
 letter-spacing: 0.03em;
 color: var(--primary-text-color);
 cursor: pointer;
-margin-top: 175px;
+margin-top: -50px;
 }
 
 .rectangle-11{
@@ -810,6 +807,7 @@ text-align: center;
 letter-spacing: 0.03em;
 color: var(--primary-text-color);
 cursor: pointer;
+margin-top: -50px;
 }
 
 .rectangle-12{
@@ -828,6 +826,7 @@ text-align: center;
 letter-spacing: 0.03em;
 color: var(--primary-text-color);
 cursor: pointer;
+margin-top: -50px;
 }  
 
 .rectangle-13{
@@ -846,6 +845,7 @@ text-align: center;
 letter-spacing: 0.03em;
 color: var(--primary-text-color);
 cursor: pointer;
+margin-top: -50px;
 }
 
 .rectangle-14{
@@ -863,7 +863,9 @@ line-height: 1.62;
 text-align: center;
 letter-spacing: 0.03em;
 color: var(--primary-text-color);
-cursor: pointer; 
+cursor: pointer;
+margin-top: -50px;
+ 
 }
 
 .card-set{
